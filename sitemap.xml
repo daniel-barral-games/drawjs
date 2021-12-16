@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://drawjs.app/</loc>
+    </url>
+    <url>
+        <loc>https://drawjs.app/image-editor</loc>
+    </url>
+    <url>
+        <loc>https://drawjs.app/docs</loc>
+    </url>
+    <url>
+        <loc>https://drawjs.app/docs/video-tutorials</loc>
+    </url>
+    <url>
+        <loc>https://drawjs.app/docs/javascript</loc>
+    </url>
+    <url>
+        <loc>https://drawjs.app/docs/javascript/all-scripts</loc>
+    </url>
+</urlset> 
