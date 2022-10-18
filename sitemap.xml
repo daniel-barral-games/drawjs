@@ -18,4 +18,13 @@
     <url>
         <loc>https://drawjs.app/docs/javascript/all-scripts</loc>
     </url>
+    <url>
+        <loc>https://drawjs.app/online-tools</loc>
+    </url>
+    <url>
+        <loc>https://drawjs.app/online-tools/crop-image</loc>
+    </url>
+    <url>
+        <loc>https://drawjs.app/online-tools/trim-transparent-pixels</loc>
+    </url>
 </urlset> 
